@@ -8,3 +8,4 @@ fastapi
 langchain-huggingface
 langchain-mistralai
 scikit-learn
+streamlit
